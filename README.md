@@ -8,6 +8,6 @@ When I am drinking my morning coffee, I like to catch up on the latest posts on 
 Check the web app! [Here](http://morning-coffee.herokuapp.com/)
 
 ### Skills
-- WebScraping (BeautifulSoup)
-- Natural Language Processing (NLTK)
+- WebScraping (Python/BeautifulSoup)
+- Natural Language Processing (Python/NLTK)
 - Flask
