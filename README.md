@@ -1,4 +1,5 @@
-# Morning-Coffee-Databites [Click](http://morning-coffee.herokuapp.com)
+# Morning-Coffee-Databites
+[PROCEED TO "Morning Coffee Databites"](http://morning-coffee.herokuapp.com)
 
 <img src="image.png">
 
