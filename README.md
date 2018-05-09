@@ -23,6 +23,7 @@ When I am drinking my morning coffee, I like to catch up on the latest posts on 
 Check the web app! [Here](http://morning-coffee.herokuapp.com/)
 
 ### Tools/Skills
+- [Python](https://www.python.org/)
 - WebScraping (Python/[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/))
 - Natural Language Processing (Python/[NLTK](https://www.nltk.org/))
 - [Flask](http://flask.pocoo.org/)/[Heroku](https://dashboard.heroku.com/)
