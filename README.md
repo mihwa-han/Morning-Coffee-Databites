@@ -1,7 +1,9 @@
 # Morning-Coffee-Databites
 <a href="http://morning-coffee.herokuapp.com" target="_blank">Proceed to "Morning Coffee Databites</a>
 
+<a href="http://morning-coffee.herokuapp.com" target="_blank">
 <img src="image.png">
+  </a>
 
 The goal of this project was to compile a useful website with all the recent articles related to data science and machine learning from websites I like following. It was also an opportunity to demonstrate my skills in (1) live web scraping and (2) summarizing articles with Python/NLTK, and building a web app with Flask/Heroku. This one week project came together in early May/2018. This web app includes:
 
