@@ -1,6 +1,6 @@
 # Morning-Coffee-Databites
 <a href="http://morning-coffee.herokuapp.com" target="_blank">Proceed to "Morning Coffee Databites</a>
-
+[Proceed to "Morning Coffee Databites]("http://morning-coffee.herokuapp.com"){:target="_blank"}
 <a href="http://morning-coffee.herokuapp.com" target="_blank">
 <img src="image.png">
   </a>
